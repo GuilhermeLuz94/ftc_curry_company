@@ -32,7 +32,7 @@ st.sidebar.markdown("""___""")
 
 st.markdown(
     """
-    Growth Dashboard doi contruido para acompahar as métricas de crescimento dos Entregadores e Restaurantes. 
+    Growth Dashboard foi contruido para acompahar as métricas de crescimento dos Entregadores e Restaurantes. 
     
     ### Como utilizar esse Growth Dashboard?
     - Visão Empresa:
