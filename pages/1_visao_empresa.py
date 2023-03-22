@@ -7,7 +7,7 @@ import datetime as dt
 import streamlit as st
 from datetime import datetime
 import matplotlib.pyplot as plt
-import seaborn as sns
+
 import numpy as np
 
 
@@ -16,7 +16,7 @@ import haversine
 import plotly.express as px
 import plotly.graph_objs as go
 import folium
-import seaborn as sns
+
 
 #-----------------------------------------------
 # Funções 
