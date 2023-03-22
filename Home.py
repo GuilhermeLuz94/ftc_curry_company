@@ -40,7 +40,7 @@ st.markdown(
        - Visão Tática: Indicadores semanais de crescimento. 
        - Visão Geográfica: Insights de geolocalização. 
        
-   - Visão Entregadoror:
+   - Visão Entregadoro:
        - Acompanhamento dos indicadores semanais de crescimento
        
        ### Ask for Help
